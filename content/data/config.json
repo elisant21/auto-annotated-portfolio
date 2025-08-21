@@ -14,11 +14,6 @@
                 "url": "/info",
                 "icon": "mail",
                 "showIcon": true
-            },
-            {
-                "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
             }
         ],
         "socialLinks": [
