@@ -12,7 +12,8 @@
                 "type": "Link",
                 "label": "Info",
                 "url": "/info",
-                "icon": "mail"
+                "icon": "mail",
+                "showIcon": false
             },
             {
                 "type": "Link",
