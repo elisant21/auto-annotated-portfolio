@@ -10,7 +10,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Email me",
                 "url": "/info",
                 "icon": "mail",
                 "showIcon": true
