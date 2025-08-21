@@ -15,9 +15,13 @@ sections:
     backgroundSize: full
     title: The Best Virtual Assistant You Can Find
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      I understand the struggles that business owners face every day. The
+      greatest barrier to growth isn’t always money, resources, or even
+      strategy—it’s time. Too many hours are spent juggling repetitive tasks,
+      managing day-to-day operations, and putting out fires, leaving little room
+      to focus on the bigger picture. That’s where I come in: helping you
+      reclaim your time so you can concentrate on what truly matters—growing
+      your business.
     styles:
       self:
         height: auto
